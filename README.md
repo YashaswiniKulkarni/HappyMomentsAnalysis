@@ -1,2 +1,4 @@
 # HappyMomentsAnalysis
 A personal project where in Text mining and Natural Language principles are utilized to perform a comprehensive study on the occurrence of happy moments for human beings such as analyzing the people around which such moments occur, analyzing the setup in which such moments occur and so on.  
+
+This is a project where the happy moments are anayzed using a lexicon. The lexicon in this project is built using different people's names who ususally occur in a person's life. The project successfully identifies the top 3 social relationships leading to a happy moment, it also recognizes the weaknesses of the pulic lexicon list found and fixes them to run the algorithm again. Additionally, the program also identifies the context words which lead to happiness in a person's life. 
